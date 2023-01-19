@@ -79,5 +79,5 @@ class OxxxyMod(loader.Module):
         await sleep(1)
         await message.respond("-Оххо, это был версус баттл и победил Оксимирон.")
         await sleep(2)
-        await message.respond("\"Oxxxymiron - I'm a шлюха girl" by @Depriced")
+        await message.respond("Oxxxymiron - Im a шлюха girl /// by @Depriced")
         await sleep(2)
